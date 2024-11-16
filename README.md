@@ -19,9 +19,9 @@ MeetScapes is ideal for anyone looking to take their Teams meetings to the next 
 
 Try MeetScapes today and transform your Microsoft Teams meetings into a dynamic, customized experience!
 
-## File Structure
+## Documentation
 
-Here is the list of important files and folders:
+Here is the list of important documentaion for the application:
 
 - **[README.md](README.md)**: The main documentation.
 - **[Terms of Use](TermsOfUse)**: The applications Terms of Use.
