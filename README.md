@@ -18,3 +18,5 @@ Seamless Teams Integration: Integrates smoothly with Microsoft Teams, offering a
 MeetScapes is ideal for anyone looking to take their Teams meetings to the next level by personalizing how they view the session. Perfect for individuals, teams, or organizations who want to create a more tailored and comfortable video conferencing experience.
 
 Try MeetScapes today and transform your Microsoft Teams meetings into a dynamic, customized experience!
+![TermsOfUse]
+![PrivacyPolicy]
